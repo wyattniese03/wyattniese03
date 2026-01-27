@@ -3,7 +3,7 @@ My Name is Wyatt Niese Im a CSE student @ The Ohio State University (GO BUCKS) a
 
 - I’m currently working on creating a home page with html
 
-- I’m currently learning software II
+- I’m currently learning systems 1 , data structures and algorithms
 
 - How to reach me: www.linkedin.com/in/wyatt-niese-53159b231
   
