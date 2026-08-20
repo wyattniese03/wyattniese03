@@ -1,5 +1,5 @@
 
-My Name is Wyatt Niese Im a CSE student @ The Ohio State University (GO BUCKS) and im in my 4th year. I love learning, coding, and math. Some hobbies of mine are listening to music, playing video games, and watching college football.
+My Name is Wyatt Niese Im a CSE student @ The Ohio State University (GO BUCKS) and im in my 5th year. I love learning, coding, and math. Some hobbies of mine are listening to music, playing video games, and watching college football.
 
 - I’m currently working on creating a home page with html
 
